@@ -10,16 +10,16 @@ This project analyzes YouTube engagement data to identify global trends, predict
 
 **Methodology**
 
-***1) Data Preprocessing:***
+1) ***Data Preprocessing:***
 - Removed outliers and imputed missing values.
 - Normalized features for clustering analysis.
-***2) Exploratory Data Analysis (EDA):***
+2) ***Exploratory Data Analysis (EDA):***
 - Identified key performance metrics such as average engagement rate and view-to-subscriber ratio.
 - Visualized relationships between metrics using scatter plots and box plots.
-***3) Clustering Analysis:***
+3) ***Clustering Analysis:***
 - Utilized K-Means clustering to segment creators into performance tiers.
 - Generated dendrograms for hierarchical clustering.
-***4) Predictive Modeling:***
+4) ***Predictive Modeling:***
 - Trained regression models to predict future performance.
 
 **Tools & Technologies**
